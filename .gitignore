@@ -4,3 +4,7 @@ dist/
 .env
 .env.*
 !.env.example
+
+# Recursos antiguos no utilizados
+public/images/logo-inalun.png
+public/images/inalun-cabecera.jpg
